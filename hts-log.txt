@@ -1,0 +1,49 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Dec 2024 13:31:30 at https://auralighting.vn +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://auralighting.vn -O1 "C:\My Web Sites\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:31:57	Error: 	"Forbidden" (403) at link https://auralighting.vn/xmlrpc.php?rsd (from https://auralighting.vn/)
+13:31:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://auralighting.vn/about/ (from https://auralighting.vn/)
+13:32:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://auralighting.vn/wp-content/uploads/2022/03/Catalog-Aura.pdf (from https://auralighting.vn/)
+13:32:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://auralighting.vn/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot? (from https://auralighting.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0)
+13:32:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://auralighting.vn/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.15.0 (from https://auralighting.vn/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0)
+13:32:30	Warning: 	Moved Permanently for https://auralighting.vn/?p=2451
+13:32:30	Warning: 	File has moved from https://auralighting.vn/?p=2451 to https://auralighting.vn/products/
+13:32:34	Warning: 	Moved Permanently for https://auralighting.vn/?p=159
+13:32:34	Warning: 	File has moved from https://auralighting.vn/?p=159 to https://auralighting.vn/projects/
+13:32:34	Warning: 	Moved Permanently for https://auralighting.vn/?p=1330
+13:32:34	Warning: 	File has moved from https://auralighting.vn/?p=1330 to https://auralighting.vn/tin-tuc-2/
+13:32:34	Error: 	"Not Found" (404) at link https://auralighting.vn/congtrinhmau/ (from https://auralighting.vn/tin-tuc-2/)
+13:32:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://auralighting.vn/wp-content/uploads/elementor/css/post-161.css?ver=1694354883 (from https://auralighting.vn/contact/)
+13:32:35	Warning: 	Moved Permanently for https://auralighting.vn/?p=161
+13:32:35	Warning: 	File has moved from https://auralighting.vn/?p=161 to https://auralighting.vn/contact/
+13:32:35	Warning: 	Moved Permanently for https://auralighting.vn/?p=802
+13:32:35	Warning: 	File has moved from https://auralighting.vn/?p=802 to https://auralighting.vn/indoor/
+13:32:45	Warning: 	Moved Permanently for https://auralighting.vn/?p=2874
+13:32:45	Warning: 	File has moved from https://auralighting.vn/?p=2874 to https://auralighting.vn/track-systems/
+13:32:45	Warning: 	Moved Permanently for https://auralighting.vn/?p=2488
+13:32:45	Warning: 	File has moved from https://auralighting.vn/?p=2488 to https://auralighting.vn/outdoor/
+13:32:45	Warning: 	Moved Permanently for https://auralighting.vn/?p=155
+13:32:45	Warning: 	File has moved from https://auralighting.vn/?p=155 to https://auralighting.vn/about/
+13:32:45	Warning: 	Moved Permanently for https://auralighting.vn/?p=1043
+13:32:45	Warning: 	File has moved from https://auralighting.vn/?p=1043 to https://auralighting.vn/virgo/
+13:32:45	Warning: 	Moved Permanently for https://auralighting.vn/?p=979
+13:32:45	Warning: 	File has moved from https://auralighting.vn/?p=979 to https://auralighting.vn/lightingdesign/
+13:32:45	Warning: 	Moved Permanently for https://auralighting.vn/?p=2326
+13:32:45	Warning: 	File has moved from https://auralighting.vn/?p=2326 to https://auralighting.vn/crown70/
+13:32:46	Warning: 	Moved Permanently for https://auralighting.vn/?p=2395
+13:32:46	Warning: 	File has moved from https://auralighting.vn/?p=2395 to https://auralighting.vn/crown90/
+13:32:46	Warning: 	Moved Permanently for https://auralighting.vn/?p=2439
+13:32:46	Warning: 	File has moved from https://auralighting.vn/?p=2439 to https://auralighting.vn/leo15/
+13:32:46	Warning: 	Moved Permanently for https://auralighting.vn/?p=2335
+13:32:46	Warning: 	File has moved from https://auralighting.vn/?p=2335 to https://auralighting.vn/gbeo7/
+13:32:46	Warning: 	Moved Permanently for https://auralighting.vn/?p=2212
+13:32:46	Warning: 	File has moved from https://auralighting.vn/?p=2212 to https://auralighting.vn/melbourne45/
+13:32:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://auralighting.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fauralighting.vn%2Fmelbourne45%2F&format=xml (from https://auralighting.vn/melbourne45/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 16 seconds : 313 links scanned, 289 files written (41243642 bytes overall) [35332329 bytes received at 464899 bytes/sec], 8126030 bytes transferred using HTTP compression in 138 files, ratio 23%, 26.0 requests per connection
+(2 errors, 36 warnings, 0 messages)
